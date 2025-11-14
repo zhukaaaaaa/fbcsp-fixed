@@ -15,3 +15,4 @@
 ```bash
 pip install -r requirements.txt
 python fbcsp_pipeline.py
+DOI: https://doi.org/10.5281/zenodo.13870386
